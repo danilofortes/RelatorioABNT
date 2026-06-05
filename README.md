@@ -74,7 +74,7 @@ Ideal para trabalhos de **qualquer disciplina**: laboratório de química, progr
 ## Instalação
 
 ```bash
-git clone https://github.com/SEU_USUARIO/RelatorioABNT.git
+git clone https://github.com/danilofortes/RelatorioABNT.git
 cd RelatorioABNT
 pip install -r requirements.txt
 ```
